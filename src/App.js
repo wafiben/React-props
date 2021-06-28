@@ -6,7 +6,7 @@ import MyImg from './images/img.JPG'
 
 function App() {
   function handle(fullName){
-     alert({fullName});
+     alert(fullName);
   }
   return (
     <div className="App">
